@@ -1,0 +1,50 @@
+body {
+    background-color: lightgray;
+}
+.header-bg {
+    background-color: darkslateblue;
+    color: lightgray;
+}
+.header-bg a {
+    color: lightgray;
+}
+.fancy-address {
+    border-left: 4px solid #007bff;
+    padding: 10px;
+    border-radius: 5px;
+    font-family: "Arial", sans-serif;
+    font-size: 16px;
+    background-color: #f2f2f2;
+    line-height: 1;
+}
+.fancy-address p {
+    margin: 0;
+    padding: 2px 0;
+}
+.fancy-address a {
+    color: #007bff;
+    text-decoration: none;
+}
+.fancy-address a:hover {
+    text-decoration: underline;
+}
+.collapse-title {
+    font-size: 20px;
+    font-family: "Arial", sans-serif;
+    color: darkslateblue;
+}
+.custom-color {
+    color: darkred;
+}
+.mb-4 {
+    text-align: center;
+    font-family: "High Tower Text", sans-serif;
+}
+.form-row {
+    margin-bottom: 15px;
+}
+.btn-primary {
+    margin-bottom: 30px;
+}
+
+
